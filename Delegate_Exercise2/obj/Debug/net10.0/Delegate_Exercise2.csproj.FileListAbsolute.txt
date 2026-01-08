@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Delegate_Exercise2\bin\Debug\net10.0\Delegate_Exercise2.exe
+C:\Users\Delta\source\repos\Delegate_Exercise2\bin\Debug\net10.0\Delegate_Exercise2.deps.json
+C:\Users\Delta\source\repos\Delegate_Exercise2\bin\Debug\net10.0\Delegate_Exercise2.runtimeconfig.json
+C:\Users\Delta\source\repos\Delegate_Exercise2\bin\Debug\net10.0\Delegate_Exercise2.dll
+C:\Users\Delta\source\repos\Delegate_Exercise2\bin\Debug\net10.0\Delegate_Exercise2.pdb
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.dll
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\refint\Delegate_Exercise2.dll
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.pdb
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\Delegate_Exercise2.genruntimeconfig.cache
+C:\Users\Delta\source\repos\Delegate_Exercise2\obj\Debug\net10.0\ref\Delegate_Exercise2.dll
