@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\Employee_Perfomance_System\bin\Debug\net10.0\Employee_Perfomance_System.exe
+C:\Users\Delta\source\repos\Employee_Perfomance_System\bin\Debug\net10.0\Employee_Perfomance_System.deps.json
+C:\Users\Delta\source\repos\Employee_Perfomance_System\bin\Debug\net10.0\Employee_Perfomance_System.runtimeconfig.json
+C:\Users\Delta\source\repos\Employee_Perfomance_System\bin\Debug\net10.0\Employee_Perfomance_System.dll
+C:\Users\Delta\source\repos\Employee_Perfomance_System\bin\Debug\net10.0\Employee_Perfomance_System.pdb
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.dll
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\refint\Employee_Perfomance_System.dll
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.pdb
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\Employee_Perfomance_System.genruntimeconfig.cache
+C:\Users\Delta\source\repos\Employee_Perfomance_System\obj\Debug\net10.0\ref\Employee_Perfomance_System.dll
