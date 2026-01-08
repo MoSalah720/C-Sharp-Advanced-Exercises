@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Banking_Alerts_System/1.0.0": {
+        "runtime": {
+          "Banking_Alerts_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking_Alerts_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
