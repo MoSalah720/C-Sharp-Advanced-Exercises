@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\bin\Debug\net10.0\Stock_Price_Monitoring _System.exe
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\bin\Debug\net10.0\Stock_Price_Monitoring _System.deps.json
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\bin\Debug\net10.0\Stock_Price_Monitoring _System.runtimeconfig.json
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\bin\Debug\net10.0\Stock_Price_Monitoring _System.dll
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\bin\Debug\net10.0\Stock_Price_Monitoring _System.pdb
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.dll
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\refint\Stock_Price_Monitoring _System.dll
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.pdb
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\Stock_Price_Monitoring _System.genruntimeconfig.cache
+C:\Users\Delta\source\repos\Stock_Price_Monitoring _System\obj\Debug\net10.0\ref\Stock_Price_Monitoring _System.dll
