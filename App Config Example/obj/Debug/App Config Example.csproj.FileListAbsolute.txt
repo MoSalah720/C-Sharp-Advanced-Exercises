@@ -1,0 +1,23 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\bin\Debug\App Config Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\bin\Debug\App Config Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\bin\Debug\App Config Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\obj\Debug\App Config Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\obj\Debug\App Config Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\obj\Debug\App Config Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\obj\Debug\App Config Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\Project\App Config Example\obj\Debug\App Config Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\bin\Debug\App Config Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\bin\Debug\App Config Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\bin\Debug\App Config Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\obj\Debug\App Config Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\obj\Debug\App Config Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\obj\Debug\App Config Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\obj\Debug\App Config Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\19 App Config\02 App Config Example\App Config Example\obj\Debug\App Config Example.pdb
+E:\programming\C#\C# level 2\App Config Example\bin\Debug\App Config Example.exe.config
+E:\programming\C#\C# level 2\App Config Example\bin\Debug\App Config Example.exe
+E:\programming\C#\C# level 2\App Config Example\bin\Debug\App Config Example.pdb
+E:\programming\C#\C# level 2\App Config Example\obj\Debug\App Config Example.csproj.AssemblyReference.cache
+E:\programming\C#\C# level 2\App Config Example\obj\Debug\App Config Example.csproj.CoreCompileInputs.cache
+E:\programming\C#\C# level 2\App Config Example\obj\Debug\App Config Example.exe
+E:\programming\C#\C# level 2\App Config Example\obj\Debug\App Config Example.pdb
