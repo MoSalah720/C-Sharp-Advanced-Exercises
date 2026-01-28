@@ -1,0 +1,15 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\24 Async\06 TaskParallel Class\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.pdb
+E:\programming\C#\C# level 2\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.exe.config
+E:\programming\C#\C# level 2\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.exe
+E:\programming\C#\C# level 2\Parallel.Invoke Example\bin\Debug\Parallel.Invoke Example.pdb
+E:\programming\C#\C# level 2\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.csproj.AssemblyReference.cache
+E:\programming\C#\C# level 2\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.csproj.CoreCompileInputs.cache
+E:\programming\C#\C# level 2\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.exe
+E:\programming\C#\C# level 2\Parallel.Invoke Example\obj\Debug\Parallel.Invoke Example.pdb
