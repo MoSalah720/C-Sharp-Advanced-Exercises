@@ -1,106 +1,89 @@
-# ⭐ C# Advanced Exercises — Delegates, Events, Generics & Observer Pattern
+# C# Advanced Exercises
 
-This repository contains a collection of practical exercises implementing **advanced C# concepts**, including Delegates, Events, EventHandler/EventArgs, Lambda Expressions, Generics, and full Event-Driven systems.
+This repository contains hands-on exercises and examples covering **advanced C# concepts**, implemented as part of the **C# Level 2 roadmap**.
 
-Each folder represents a standalone exercise that applies these concepts in real scenarios.
-
----
-
-## 🚀 Topics Covered
-
-### ✔ Delegates & Multicast Delegates
-- Declaring and invoking delegates  
-- Delegate chaining  
-- Anonymous methods  
-- Lambda expressions  
-- Generic delegates  
+The main goal of this repository is to demonstrate a solid understanding of advanced C# topics through **practical, real examples**, not just theory.
 
 ---
 
-### ✔ Func / Action / Predicate
-- Passing logic as parameters  
-- Higher-order functions  
-- Strategy Pattern through delegates  
-- Clean, extensible behavioral programming  
+## 📌 Topics Covered
+
+### 🔹 Asynchronous Programming
+- async / await
+- Task
+- Task.WhenAll / Task.WhenAny
+- Callbacks and events with async
+
+### 🔹 Multithreading & Parallel Programming
+- Thread basics
+- Race conditions
+- Thread synchronization (lock)
+- Parallel.For / Parallel.ForEach
+- Parallel.Invoke
+
+### 🔹 Delegates & Events
+- Single-cast & Multi-cast delegates
+- Func / Action / Predicate
+- Custom events & Custom EventArgs
+- Observer pattern concepts
+
+### 🔹 Reflection & Attributes
+- Reflection basics
+- Reading metadata
+- Custom attributes
+- Validation attributes
+- Obsolete & conditional attributes
+
+### 🔹 Security
+- Hashing (SHA)
+- Symmetric encryption (AES)
+- Asymmetric encryption (RSA)
+- Image encryption examples
+
+### 🔹 Performance & System
+- String vs StringBuilder performance
+- Windows Registry (Read / Write / Delete)
+- Logging & Event Viewer
+- Application configuration
 
 ---
 
-### ✔ Generics
-- Generic classes  
-- Generic methods  
-- Type constraints (`class`, `struct`, interfaces)  
-- Using generics with delegates and functional code  
+## 📂 Repository Structure
+
+Each folder contains a **separate example project** focused on a specific concept.
+Projects are kept isolated to make learning and reviewing easier.
+
 
 ---
 
-### ✔ Events & Observer Pattern
-- EventHandler & EventHandler<T>  
-- Custom EventArgs  
-- Publisher/Subscriber architecture  
-- Multi-subscriber event reactions  
-- Decoupled system design  
-- Real implementations of the Observer Pattern  
+## 🎯 Purpose of This Repository
+
+- Practice and reinforce advanced C# concepts
+- Build a strong foundation for real-world .NET applications
+- Serve as a reference for future learning
+- Showcase practical knowledge for interviews and portfolio review
 
 ---
 
-## 📁 Project Structure
+## 🛠 Technologies Used
 
-### 📌 Delegates_Exercise1  
-Student grading system using Func, Action, Predicate, and clean delegate-based logic.
-
----
-
-### 📌 Delegate_Exercise2  
-Temperature sensor system using Events + EventArgs + multiple subscribers (Display / Alarm).
+- C#
+- .NET
+- Task Parallel Library (TPL)
+- Windows Registry
+- Cryptography APIs
 
 ---
 
-### 📌 Employee_Performance_System  
-Performance evaluation workflow using higher-order functions for scoring, validation, and output.
+## 🚀 Notes
+
+- These examples are for **learning and demonstration purposes**.
+- Some advanced topics (such as multithreading, reflection, and encryption) may not be used daily in junior-level roles, but they are included for **conceptual understanding and long-term growth**.
 
 ---
 
-### 📌 Stock_Price_Monitoring_System  
-Observer Pattern implementation with Investor, Logger, and NewsAgency subscribers.
+## 👤 Author
 
----
-
-### 📌 Banking_Alerts_System  
-Complete event-driven system:  
-Deposits, withdrawals, SMS/email notifications, fraud detection, and security alerts.
-
----
-
-### 📌 Delegate_Exercise3  
-An improved Temperature Sensor system implemented with a **Broker (Publish/Subscribe Pattern)**  
-instead of standard C# events, providing a decoupled event bus architecture.
-
----
-
-## 🎯 Purpose
-
-These exercises aim to:
-
-- Strengthen understanding of advanced C# language features  
-- Learn how to structure **event-driven systems**  
-- Practice clean separation of concerns  
-- Build real Observer-Pattern-based solutions  
-- Prepare for LINQ, async/await, and advanced OOP patterns  
-
----
-
-## 🧭 Next Steps (Recommended Learning Path)
-
-1. **LINQ** (Where, Select, OrderBy, GroupBy...)  
-2. Extension Methods  
-3. Anonymous Types  
-4. IEnumerable vs IQueryable  
-5. async / await  
-6. SOLID Principles  
-7. Dependency Injection  
-
----
-
-## ✨ Author
 **Mohamed Salah**  
-GitHub: https://github.com/MoSalah720  
+GitHub: https://github.com/MoSalah720
+
